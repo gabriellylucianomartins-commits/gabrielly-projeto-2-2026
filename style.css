@@ -3,6 +3,8 @@ header{
 background-color: rgb(167, 242, 255); /* cor de fundo
  do cabeçalho*/
 color: black; /* cor da fonte*/
+text-align: center;
+max-width: 800px;
 
 }
 
