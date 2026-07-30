@@ -1,0 +1,26 @@
+header{
+
+background-color: rgb(167, 242, 255); /* cor de fundo
+ do cabeçalho*/
+color: black; /* cor da fonte*/
+
+}
+
+main{
+
+    background-color: rgb(121, 217, 255); /* cor de fundo
+ do texto principal*/
+color: black; /* cor da fonte*/
+text-align: center;
+max-width: 800px; /* alinha o tx ao centro*/
+margin:0 auto ; /* margens*/
+}
+
+
+ footer{
+
+    background-color: rgb(1, 161, 182); /* cor de fundo
+ do texto rodapé*/
+color: black; /* cor da fonte*/
+
+}
