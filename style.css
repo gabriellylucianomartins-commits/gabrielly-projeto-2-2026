@@ -20,6 +20,7 @@ max-width: 800px; /* alinha o tx ao centro*/
 margin:0 auto ; /* margens*/
 padding: 16px;/*espacamento interno*/
 display: flex;/*habilita o uso de flex box*/
+flex-direction: column;/*orienta os elementos na coluna na orde 1,2 e 3 */
 }
 
 
