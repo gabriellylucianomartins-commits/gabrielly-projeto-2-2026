@@ -18,7 +18,7 @@ color: black; /* cor da fonte*/
 text-align: center;
 max-width: 800px; /* alinha o tx ao centro*/
 margin:0 auto ; /* margens*/
-
+padding: 16px;/*espacamento interno*/
 display: flex;/*habilita o uso de flex box*/
 }
 
