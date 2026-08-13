@@ -29,6 +29,7 @@ flex-direction: column;/*orienta os elementos na coluna na orde 1,2 e 3 */
     background-color: rgb(1, 161, 182); /* cor de fundo
  do texto rodapé*/
 color: black; /* cor da fonte*/
+max-width: 800px;/* largura maxima */
 
 }
 img{
