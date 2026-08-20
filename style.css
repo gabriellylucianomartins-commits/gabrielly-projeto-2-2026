@@ -32,6 +32,7 @@ color: black; /* cor da fonte*/
 max-width: 800px;/* largura maxima */
 display: flex;/*habilita o uso de flex box*/
 margin: 0 auto;/*espaçamento externo ao redor do elemento*/
+padding: 16px;/*espacamento interno*/
 
 }
 img{
